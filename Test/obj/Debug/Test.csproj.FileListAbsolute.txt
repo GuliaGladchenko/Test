@@ -1,0 +1,7 @@
+e:\4 курс\конструирование\Test\Test\bin\Debug\Test.exe.config
+e:\4 курс\конструирование\Test\Test\bin\Debug\Test.exe
+e:\4 курс\конструирование\Test\Test\bin\Debug\Test.pdb
+e:\4 курс\конструирование\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+e:\4 курс\конструирование\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+e:\4 курс\конструирование\Test\Test\obj\Debug\Test.exe
+e:\4 курс\конструирование\Test\Test\obj\Debug\Test.pdb
